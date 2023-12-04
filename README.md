@@ -37,7 +37,7 @@ git clone https://github.com/shakib75bd/Simple-Chat-App-Terminal-with-Java
 
 2. Navigate to the folder
 
-3. If you use different devices on same network, use the ip address of the server device on Client.java file first.
+3. If you use different devices on the same network, use the ip address of the server device on Client.java file first.
 
 
 4. Compile and run the Server.java first
@@ -47,7 +47,7 @@ javac Server.java
 java Server
 ```
 
-5. Now compile and run the Client.java
+5. Now compile and run the Client.java from a different session of the terminal:
 
 ```sh
 javac Client.java
