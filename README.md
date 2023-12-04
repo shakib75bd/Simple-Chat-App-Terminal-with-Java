@@ -47,7 +47,7 @@ javac Server.java
 java Server
 ```
 
-5. Now compile and run the Client.java from a different session of the terminal:
+5. Now compile and run the Client.java from a different device or a different session of the terminal of the same device:
 
 ```sh
 javac Client.java
