@@ -29,7 +29,7 @@ You need the JAVA compiler installed on your machine.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo or download.
 
 ```sh
 git clone https://github.com/shakib75bd/Simple-Chat-App-Terminal-with-Java
